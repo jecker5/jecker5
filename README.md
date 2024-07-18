@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **NextJS, Data Manipulation, and the OpenAI API**
 
-- 💬 Ask me about **how we can use Software Engineering to help the environment**
-
 - 📫 How to reach me **joedecker5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
